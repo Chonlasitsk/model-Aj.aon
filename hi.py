@@ -9,3 +9,6 @@ if i == 'Banana':
 else:
   print('Kingkong')
   print('original ?')
+
+a = np.array([2,4,6])
+print(2*a)
