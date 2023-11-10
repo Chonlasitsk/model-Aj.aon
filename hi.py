@@ -6,3 +6,5 @@ for i in ['Apple', 'Banana']:
 if i == 'Banana':
   print('Monkey')
   print('eat banana')
+else:
+  print('Kingkong')
