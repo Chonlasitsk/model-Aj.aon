@@ -10,4 +10,5 @@ else:
   print('Kingkong')
   print('original ?')
 print('Finish !!')
+print('-----')
 
