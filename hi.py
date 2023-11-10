@@ -5,3 +5,4 @@ for i in ['Apple', 'Banana']:
   print(i)
 if i == 'Banana':
   print('Monkey')
+  print('eat banana')
