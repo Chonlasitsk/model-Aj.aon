@@ -1,3 +1,4 @@
+import numpy as np
 name = input('Enter your name :')
 print('Welcome %s to my Repository!!' %name)
 if name == 'Tawan':
