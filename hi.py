@@ -10,10 +10,8 @@ else:
   print('Kingkong')
   print('original ?')
 print('Eleven!')
-a = 1
-b = 2
-if a + b == 3:
-  print('Yes!')
-else:
-  print('Nooo')
+
+def compute(a,b):
+  return (a*b)**2
+print(compute(2,3))
 
