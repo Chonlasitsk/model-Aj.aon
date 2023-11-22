@@ -13,5 +13,5 @@ print('Eleven!')
 
 def compute(a,b):
   return (a*b)**2
-print(compute(2,3))
+print(compute(2,5))
 
