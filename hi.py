@@ -11,7 +11,7 @@ else:
   print('original ?')
 print('Eleven!')
 
-def compute(a,b):
+def compute(a,b,c):
   return (a*b)**2
 print(compute(2,5))
 
